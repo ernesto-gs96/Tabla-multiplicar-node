@@ -1,0 +1,16 @@
+{
+  "name": "03-bases",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "ErnestoGS",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  }
+}
