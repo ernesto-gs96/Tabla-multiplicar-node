@@ -1,6 +1,6 @@
 # Notas:
 Este es mi primer programa en Node
-!!!
+```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
@@ -8,4 +8,4 @@ Opciones:
   -h, --hasta    Indica hasta que numero sera la tabla de multiplicar.
                                                           [número] [defecto: 10]
   -l, --listar   Enlista la tabla de multiplicar.    [booleano] [defecto: false]
-!!!
+```
